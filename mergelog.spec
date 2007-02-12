@@ -1,5 +1,5 @@
 Summary:	Mergelog - a program which merges by date httpd log files
-Summary(pl):	Mergelog - program ³±cz±cy pliki logów httpd wed³ug daty
+Summary(pl.UTF-8):   Mergelog - program Å‚Ä…czÄ…cy pliki logÃ³w httpd wedÅ‚ug daty
 Name:		mergelog
 Version:	4.5
 Release:	1
@@ -20,13 +20,13 @@ It has been designed to easily manage huge log files from highly
 stressed servers. mergelog is distributed with zmergelog which
 supports gzipped log files.
 
-%description -l pl
-mergelog to ma³y i szybki program w C ³±cz±cy wed³ug daty pliki logów
-httpd w formacie "Common Log Format" z serwerów WWW za DNS-em
-ustawionym w round-robin. Zosta³ zaprojektowany do ³atwej obs³ugi
-du¿ych plików logów z obci±¿onych serwerów. mergelog jest
-rozpowszechniany z programem zmergelog, który obs³uguje zgzipowane
-pliki logów.
+%description -l pl.UTF-8
+mergelog to maÅ‚y i szybki program w C Å‚Ä…czÄ…cy wedÅ‚ug daty pliki logÃ³w
+httpd w formacie "Common Log Format" z serwerÃ³w WWW za DNS-em
+ustawionym w round-robin. ZostaÅ‚ zaprojektowany do Å‚atwej obsÅ‚ugi
+duÅ¼ych plikÃ³w logÃ³w z obciÄ…Å¼onych serwerÃ³w. mergelog jest
+rozpowszechniany z programem zmergelog, ktÃ³ry obsÅ‚uguje zgzipowane
+pliki logÃ³w.
 
 %prep
 %setup -q
