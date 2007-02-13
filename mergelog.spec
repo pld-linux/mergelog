@@ -1,5 +1,5 @@
 Summary:	Mergelog - a program which merges by date httpd log files
-Summary(pl.UTF-8):   Mergelog - program łączący pliki logów httpd według daty
+Summary(pl.UTF-8):	Mergelog - program łączący pliki logów httpd według daty
 Name:		mergelog
 Version:	4.5
 Release:	1
